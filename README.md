@@ -13,3 +13,4 @@ targeted-exploration trajectories to obtain information-rich samples. Using this
 improved method of exploration, an upgraded RL agent is designed and then deployed on
 grid-forming 3-phase voltage source inverter with unknown resistive load.
 
+[Model-based Exploration for Reinforcement Learning in Power Electronic Systems](./Model-based-Exploration-for-Reinforcement-Learning-in-Power-Electronic-Systems-1.pdf)
